@@ -1,0 +1,3 @@
+rootProject.name='LDPerminsson'
+include ':app'
+include ':permission'
